@@ -3,9 +3,6 @@
 
 
 
-<img width="3054" height="1702" alt="c11b6d1539a22635323d323511ba36c6" src="https://github.com/user-attachments/assets/d9a3f66d-b53e-4ec4-b7f3-07bff2e82d31" />
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
